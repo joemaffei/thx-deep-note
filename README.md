@@ -4,8 +4,14 @@ A collection of my reproductions of the THX Deep Note over the years.
 
 ## Csound
 
-This was my first experiment. I don't know if I still have the source code,
-but I wrote a blog post about it, so it may be on the web somewhere.
+This was my first experiment using [Csound](https://csound.com/), on May 24, 2007.
+I posted about it on my [Blogspot]<https://joesprojectblog.blogspot.com/2008/03/thx-deep-note-challenge.html> on March 18, 2008.
+
+`thx-2007-csound.orc`
+
+`thx-2007-csound.sco`
+
+`thx-2007-csound.md` (reproduction of the Blogspot post)
 
 ## ToneJS
 
