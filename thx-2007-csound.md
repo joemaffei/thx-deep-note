@@ -20,7 +20,7 @@ Before I could get into coding anything, I had to find a "cello tone". So I samp
 
 Looking at the spectral view of this waveform, I could approximate the amplitudes of the first 22 partials fairly accurately. The original sound used only the first 12, but I figured it wouldn't hurt to go farther. Here's a view of the first few partials:
 
-
+![cello partials](./cellopartials.gif)
 
 I jotted down those amplitudes in Excel, and adapted the decibel formula to get the relative amplitudes in percentile form. Like this:
 
