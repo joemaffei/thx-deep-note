@@ -4,7 +4,7 @@ A collection of my reproductions of the THX Deep Note over the years.
 
 ## Csound
 
-This was my first experiment using [Csound](https://csound.com/), on May 24, 2007.
+This was my first experiment making the THX Deep Note using [Csound](https://csound.com/), on May 24, 2007.
 I posted about it on my [Blogspot]<https://joesprojectblog.blogspot.com/2008/03/thx-deep-note-challenge.html> on March 18, 2008.
 
 `thx-2007-csound.csd`
